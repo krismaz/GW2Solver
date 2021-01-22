@@ -1,0 +1,39 @@
+{
+  "Verb": "Salvage (Copperfed)",
+  "Cost": 3,
+  "Profit": 0,
+  "Input":
+    {
+      "ID": 79079,
+      "Name": "Unstable Metal Chunk",
+      "Quantity": 5247
+
+    },
+  "Outputs": [
+    {
+      "ID": 19697,
+      "Name": "Copper Ore",
+      "Quantity": 854
+    },
+    {
+      "ID": 19699,
+      "Name": "Iron Ore",
+      "Quantity": 4972
+    },
+    {
+      "ID": 19702,
+      "Name": "Platinum Ore",
+      "Quantity": 2466
+    },
+    {
+      "ID": 19700,
+      "Name": "Mithril Ore",
+      "Quantity": 812
+    },
+    {
+      "ID": 19701,
+      "Name": "Orichalcum Ore",
+      "Quantity": 1661
+    }
+  ]
+} 

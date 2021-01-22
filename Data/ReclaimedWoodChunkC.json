@@ -1,0 +1,44 @@
+{
+  "Verb": "Salvage (Copperfed)",
+  "Cost": 3,
+  "Profit": 0,
+  "Input":
+    {
+      "ID": 79423,
+      "Name": "Reclaimed Wood Chunk",
+      "Quantity": 251
+
+    },
+  "Outputs": [
+    {
+      "ID": 19723,
+      "Name": "Green Wood Log",
+      "Quantity": 33
+    },
+    {
+      "ID": 19726,
+      "Name": "Soft Wood Log",
+      "Quantity": 116
+    },
+    {
+      "ID": 19727,
+      "Name": "Seasoned Wood Log",
+      "Quantity": 107
+    },
+    {
+      "ID": 19724,
+      "Name": "Hard Wood Log",
+      "Quantity": 151
+    },
+    {
+      "ID": 19722,
+      "Name": "Elder Wood Log",
+      "Quantity": 32
+    },
+    {
+      "ID": 19725,
+      "Name": "Ancient Wood Log",
+      "Quantity": 85
+    }    
+  ]
+} 

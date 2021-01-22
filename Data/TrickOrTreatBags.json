@@ -1,0 +1,353 @@
+{
+  "Verb": "Open",
+  "Cost": 0,
+  "Profit": 0,
+  "Input":
+    {
+    "ID": 36038,
+    "Name": "Trick-or-Treat Bag",
+    "Quantity": 2930
+  },
+  "Outputs": [
+  {
+    "ID": 19700,
+    "Name": "Mithril Ore",
+    "Quantity": 1
+  },
+  {
+    "ID": 19701,
+    "Name": "Orichalcum Ore",
+    "Quantity": 1
+  },
+  {
+    "ID": 19721,
+    "Name": "Glob of Ectoplasm",
+    "Quantity": 3
+  },
+  {
+    "ID": 36031,
+    "Name": "Toilet Paper",
+    "Quantity": 98
+  },
+  {
+    "ID": 36032,
+    "Name": "Rotten Egg",
+    "Quantity": 111
+  },
+  {
+    "ID": 36041,
+    "Name": "Piece of Candy Corn",
+    "Quantity": 7353
+  },
+  {
+    "ID": 36049,
+    "Name": "Recipe: Major Rune of the Mad King",
+    "Quantity": 1
+  },
+  {
+    "ID": 36059,
+    "Name": "Plastic Fangs",
+    "Quantity": 2328
+  },
+  {
+    "ID": 36060,
+    "Name": "Chattering Skull",
+    "Quantity": 2197
+  },
+  {
+    "ID": 36061,
+    "Name": "Nougat Center",
+    "Quantity": 2117
+  },
+  {
+    "ID": 36074,
+    "Name": "Bowl of Candy Corn Custard",
+    "Quantity": 153
+  },
+  {
+    "ID": 36076,
+    "Name": "Strawberry Ghost",
+    "Quantity": 134
+  },
+  {
+    "ID": 36077,
+    "Name": "Piece of Candy Corn Almond Brittle",
+    "Quantity": 108
+  },
+  {
+    "ID": 36080,
+    "Name": "Glazed Pear Tart",
+    "Quantity": 101
+  },
+  {
+    "ID": 36081,
+    "Name": "Glazed Peach Tart",
+    "Quantity": 82
+  },
+  {
+    "ID": 36084,
+    "Name": "Spicy Pumpkin Cookie",
+    "Quantity": 80
+  },
+  {
+    "ID": 36095,
+    "Name": "Minor Potion of Halloween Slaying",
+    "Quantity": 9
+  },
+  {
+    "ID": 36101,
+    "Name": "Recipe: Candy Corn Almond Brittle",
+    "Quantity": 1
+  },
+  {
+    "ID": 36107,
+    "Name": "Concentrating Halloween Tonic",
+    "Quantity": 18
+  },
+  {
+    "ID": 36108,
+    "Name": "Plastic Spider Tonic",
+    "Quantity": 6
+  },
+  {
+    "ID": 43772,
+    "Name": "Charged Quartz Crystal",
+    "Quantity": 5
+  },
+  {
+    "ID": 45176,
+    "Name": "Essence of Luck",
+    "Quantity": 130
+  },
+  {
+    "ID": 45177,
+    "Name": "Essence of Luck",
+    "Quantity": 129
+  },
+  {
+    "ID": 45178,
+    "Name": "Essence of Luck",
+    "Quantity": 82
+  },
+  {
+    "ID": 46681,
+    "Name": "Glob of Dark Matter",
+    "Quantity": 3
+  },
+  {
+    "ID": 46731,
+    "Name": "Pile of Bloodstone Dust",
+    "Quantity": 385
+  },
+  {
+    "ID": 46733,
+    "Name": "Dragonite Ore",
+    "Quantity": 488
+  },
+  {
+    "ID": 46735,
+    "Name": "Empyreal Fragment",
+    "Quantity": 676
+  },
+  {
+    "ID": 67367,
+    "Name": "Lump of Crystallized Nougat",
+    "Quantity": 166
+  },
+  {
+    "ID": 67368,
+    "Name": "Sharpening Skull",
+    "Quantity": 151
+  },
+  {
+    "ID": 67371,
+    "Name": "Flask of Pumpkin Oil",
+    "Quantity": 153
+  },
+  {
+    "ID": 67372,
+    "Name": "Polyluminescent Undulating Refractor (Orange)",
+    "Quantity": 1
+  },
+  {
+    "ID": 67379,
+    "Name": "Bottle of Batwing Brew",
+    "Quantity": 40
+  },
+  {
+    "ID": 76569,
+    "Name": "Mini Devil Dog",
+    "Quantity": 1
+  },
+  {
+    "ID": 79647,
+    "Name": "Polyluminescent Undulating Refractor (Teal)",
+    "Quantity": 1
+  },
+  {
+    "ID": 79673,
+    "Name": "Gargoyle Tonic",
+    "Quantity": 108
+  },
+  {
+    "ID": 79677,
+    "Name": "Shadow Raven Tonic",
+    "Quantity": 109
+  },
+  {
+    "ID": 79679,
+    "Name": "Hellfire Skeleton Tonic",
+    "Quantity": 101
+  },
+  {
+    "ID": 89002,
+    "Name": "Soul Pastry",
+    "Quantity": 93
+  },
+  {
+    "ID": 89036,
+    "Name": "The Cure",
+    "Quantity": 1
+  },
+    {
+    "ID": 24351,
+    "Name": "Vicious Claw",
+    "Quantity": 10
+  },
+  {
+    "ID": 36031,
+    "Name": "Toilet Paper",
+    "Quantity": 38
+  },
+  {
+    "ID": 36032,
+    "Name": "Rotten Egg",
+    "Quantity": 48
+  },
+  {
+    "ID": 36041,
+    "Name": "Piece of Candy Corn",
+    "Quantity": 2243
+  },
+  {
+    "ID": 36059,
+    "Name": "Plastic Fangs",
+    "Quantity": 730
+  },
+  {
+    "ID": 36060,
+    "Name": "Chattering Skull",
+    "Quantity": 686
+  },
+  {
+    "ID": 36061,
+    "Name": "Nougat Center",
+    "Quantity": 702
+  },
+  {
+    "ID": 36074,
+    "Name": "Bowl of Candy Corn Custard",
+    "Quantity": 42
+  },
+  {
+    "ID": 36076,
+    "Name": "Strawberry Ghost",
+    "Quantity": 40
+  },
+  {
+    "ID": 36077,
+    "Name": "Piece of Candy Corn Almond Brittle",
+    "Quantity": 39
+  },
+  {
+    "ID": 36080,
+    "Name": "Glazed Pear Tart",
+    "Quantity": 19
+  },
+  {
+    "ID": 36081,
+    "Name": "Glazed Peach Tart",
+    "Quantity": 22
+  },
+  {
+    "ID": 36084,
+    "Name": "Spicy Pumpkin Cookie",
+    "Quantity": 20
+  },
+  {
+    "ID": 36095,
+    "Name": "Minor Potion of Halloween Slaying",
+    "Quantity": 6
+  },
+  {
+    "ID": 36107,
+    "Name": "Concentrating Halloween Tonic",
+    "Quantity": 6
+  },
+  {
+    "ID": 43772,
+    "Name": "Charged Quartz Crystal",
+    "Quantity": 1
+  },
+  {
+    "ID": 46731,
+    "Name": "Pile of Bloodstone Dust",
+    "Quantity": 345
+  },
+  {
+    "ID": 46733,
+    "Name": "Dragonite Ore",
+    "Quantity": 148
+  },
+  {
+    "ID": 46735,
+    "Name": "Empyreal Fragment",
+    "Quantity": 108
+  },
+  {
+    "ID": 67367,
+    "Name": "Lump of Crystallized Nougat",
+    "Quantity": 36
+  },
+  {
+    "ID": 67368,
+    "Name": "Sharpening Skull",
+    "Quantity": 42
+  },
+  {
+    "ID": 67371,
+    "Name": "Flask of Pumpkin Oil",
+    "Quantity": 54
+  },
+  {
+    "ID": 67379,
+    "Name": "Bottle of Batwing Brew",
+    "Quantity": 11
+  },
+  {
+    "ID": 76642,
+    "Name": "Vassago",
+    "Quantity": 1
+  },
+  {
+    "ID": 79677,
+    "Name": "Shadow Raven Tonic",
+    "Quantity": 38
+  },
+  {
+    "ID": 79679,
+    "Name": "Hellfire Skeleton Tonic",
+    "Quantity": 29
+  },
+  {
+    "ID": 88998,
+    "Name": "Mini Pumpkin Jack",
+    "Quantity": 1
+  },
+  {
+    "ID": 89002,
+    "Name": "Soul Pastry",
+    "Quantity": 27
+  }
+]
+} 

@@ -1,0 +1,673 @@
+{
+  "Verb": "Open",
+  "Cost": 0,
+  "Profit": 3.2,
+  "Input":
+    {
+      "ID": 8920,
+      "Name": "Heavy Loot Bag",
+      "Quantity": 17333
+    },
+  "Outputs": [
+    {
+    "ID": 19700,
+    "Name": "Mithril Ore",
+    "Quantity": 1992
+  },
+  {
+    "ID": 19729,
+    "Name": "Thick Leather Section",
+    "Quantity": 1007
+  },
+  {
+    "ID": 19732,
+    "Name": "Hardened Leather Section",
+    "Quantity": 276
+  },
+  {
+    "ID": 19745,
+    "Name": "Gossamer Scrap",
+    "Quantity": 368
+  },
+  {
+    "ID": 19748,
+    "Name": "Silk Scrap",
+    "Quantity": 1157
+  },
+  {
+    "ID": 24276,
+    "Name": "Pile of Incandescent Dust",
+    "Quantity": 255
+  },
+  {
+    "ID": 24277,
+    "Name": "Pile of Crystalline Dust",
+    "Quantity": 77
+  },
+  {
+    "ID": 24282,
+    "Name": "Potent Venom Sac",
+    "Quantity": 271
+  },
+  {
+    "ID": 24283,
+    "Name": "Powerful Venom Sac",
+    "Quantity": 74
+  },
+  {
+    "ID": 24288,
+    "Name": "Large Scale",
+    "Quantity": 262
+  },
+  {
+    "ID": 24289,
+    "Name": "Armored Scale",
+    "Quantity": 61
+  },
+  {
+    "ID": 24294,
+    "Name": "Vial of Potent Blood",
+    "Quantity": 267
+  },
+  {
+    "ID": 24295,
+    "Name": "Vial of Powerful Blood",
+    "Quantity": 49
+  },
+  {
+    "ID": 24299,
+    "Name": "Intricate Totem",
+    "Quantity": 262
+  },
+  {
+    "ID": 24300,
+    "Name": "Elaborate Totem",
+    "Quantity": 63
+  },
+  {
+    "ID": 24304,
+    "Name": "Charged Core",
+    "Quantity": 8
+  },
+  {
+    "ID": 24305,
+    "Name": "Charged Lodestone",
+    "Quantity": 1
+  },
+  {
+    "ID": 24309,
+    "Name": "Onyx Core",
+    "Quantity": 7
+  },
+  {
+    "ID": 24314,
+    "Name": "Molten Core",
+    "Quantity": 5
+  },
+  {
+    "ID": 24315,
+    "Name": "Molten Lodestone",
+    "Quantity": 1
+  },
+  {
+    "ID": 24319,
+    "Name": "Glacial Core",
+    "Quantity": 8
+  },
+  {
+    "ID": 24324,
+    "Name": "Destroyer Core",
+    "Quantity": 6
+  },
+  {
+    "ID": 24325,
+    "Name": "Destroyer Lodestone",
+    "Quantity": 1
+  },
+  {
+    "ID": 24329,
+    "Name": "Crystal Core",
+    "Quantity": 7
+  },
+  {
+    "ID": 24330,
+    "Name": "Crystal Lodestone",
+    "Quantity": 3
+  },
+  {
+    "ID": 24334,
+    "Name": "Pile of Vile Essence",
+    "Quantity": 4
+  },
+  {
+    "ID": 24339,
+    "Name": "Corrupted Core",
+    "Quantity": 4
+  },
+  {
+    "ID": 24341,
+    "Name": "Large Bone",
+    "Quantity": 274
+  },
+  {
+    "ID": 24350,
+    "Name": "Large Claw",
+    "Quantity": 240
+  },
+  {
+    "ID": 24351,
+    "Name": "Vicious Claw",
+    "Quantity": 76
+  },
+  {
+    "ID": 24356,
+    "Name": "Large Fang",
+    "Quantity": 250
+  },
+  {
+    "ID": 24357,
+    "Name": "Vicious Fang",
+    "Quantity": 62
+  },
+  {
+    "ID": 24358,
+    "Name": "Ancient Bone",
+    "Quantity": 71
+  },
+    {
+      "ID": 19700,
+      "Name": "Mithril Ore",
+      "Quantity": 798
+    },
+    {
+      "ID": 19729,
+      "Name": "Thick Leather Section",
+      "Quantity": 446
+    },
+    {
+      "ID": 19732,
+      "Name": "Hardened Leather Section",
+      "Quantity": 150
+    },
+    {
+      "ID": 19745,
+      "Name": "Gossamer Scrap",
+      "Quantity": 171
+    },
+    {
+      "ID": 19748,
+      "Name": "Silk Scrap",
+      "Quantity": 575
+    },
+    {
+      "ID": 24276,
+      "Name": "Pile of Incandescent Dust",
+      "Quantity": 121
+    },
+    {
+      "ID": 24277,
+      "Name": "Pile of Crystalline Dust",
+      "Quantity": 36
+    },
+    {
+      "ID": 24282,
+      "Name": "Potent Venom Sac",
+      "Quantity": 103
+    },
+    {
+      "ID": 24283,
+      "Name": "Powerful Venom Sac",
+      "Quantity": 33
+    },
+    {
+      "ID": 24288,
+      "Name": "Large Scale",
+      "Quantity": 134
+    },
+    {
+      "ID": 24289,
+      "Name": "Armored Scale",
+      "Quantity": 37
+    },
+    {
+      "ID": 24294,
+      "Name": "Vial of Potent Blood",
+      "Quantity": 111
+    },
+    {
+      "ID": 24295,
+      "Name": "Vial of Powerful Blood",
+      "Quantity": 37
+    },
+    {
+      "ID": 24299,
+      "Name": "Intricate Totem",
+      "Quantity": 105
+    },
+    {
+      "ID": 24300,
+      "Name": "Elaborate Totem",
+      "Quantity": 35
+    },
+    {
+      "ID": 24304,
+      "Name": "Charged Core",
+      "Quantity": 2
+    },
+    {
+      "ID": 24309,
+      "Name": "Onyx Core",
+      "Quantity": 5
+    },
+    {
+      "ID": 24314,
+      "Name": "Molten Core",
+      "Quantity": 6
+    },
+    {
+      "ID": 24315,
+      "Name": "Molten Lodestone",
+      "Quantity": 2
+    },
+    {
+      "ID": 24319,
+      "Name": "Glacial Core",
+      "Quantity": 5
+    },
+    {
+      "ID": 24329,
+      "Name": "Crystal Core",
+      "Quantity": 2
+    },
+    {
+      "ID": 24334,
+      "Name": "Pile of Vile Essence",
+      "Quantity": 3
+    },
+    {
+      "ID": 24335,
+      "Name": "Pile of Putrid Essence",
+      "Quantity": 1
+    },
+    {
+      "ID": 24339,
+      "Name": "Corrupted Core",
+      "Quantity": 1
+    },
+    {
+      "ID": 24340,
+      "Name": "Corrupted Lodestone",
+      "Quantity": 1
+    },
+    {
+      "ID": 24341,
+      "Name": "Large Bone",
+      "Quantity": 108
+    },
+    {
+      "ID": 24350,
+      "Name": "Large Claw",
+      "Quantity": 119
+    },
+    {
+      "ID": 24351,
+      "Name": "Vicious Claw",
+      "Quantity": 20
+    },
+    {
+      "ID": 24356,
+      "Name": "Large Fang",
+      "Quantity": 117
+    },
+    {
+      "ID": 24357,
+      "Name": "Vicious Fang",
+      "Quantity": 31
+    },
+    {
+      "ID": 24358,
+      "Name": "Ancient Bone",
+      "Quantity": 31
+    },
+    {
+    "ID": 19700,
+    "Name": "Mithril Ore",
+    "Quantity": 1372
+  },
+  {
+    "ID": 19729,
+    "Name": "Thick Leather Section",
+    "Quantity": 641
+  },
+  {
+    "ID": 19732,
+    "Name": "Hardened Leather Section",
+    "Quantity": 214
+  },
+  {
+    "ID": 19745,
+    "Name": "Gossamer Scrap",
+    "Quantity": 314
+  },
+  {
+    "ID": 19748,
+    "Name": "Silk Scrap",
+    "Quantity": 960
+  },
+  {
+    "ID": 24276,
+    "Name": "Pile of Incandescent Dust",
+    "Quantity": 173
+  },
+  {
+    "ID": 24277,
+    "Name": "Pile of Crystalline Dust",
+    "Quantity": 35
+  },
+  {
+    "ID": 24282,
+    "Name": "Potent Venom Sac",
+    "Quantity": 192
+  },
+  {
+    "ID": 24283,
+    "Name": "Powerful Venom Sac",
+    "Quantity": 45
+  },
+  {
+    "ID": 24288,
+    "Name": "Large Scale",
+    "Quantity": 184
+  },
+  {
+    "ID": 24289,
+    "Name": "Armored Scale",
+    "Quantity": 36
+  },
+  {
+    "ID": 24294,
+    "Name": "Vial of Potent Blood",
+    "Quantity": 181
+  },
+  {
+    "ID": 24295,
+    "Name": "Vial of Powerful Blood",
+    "Quantity": 63
+  },
+  {
+    "ID": 24299,
+    "Name": "Intricate Totem",
+    "Quantity": 185
+  },
+  {
+    "ID": 24300,
+    "Name": "Elaborate Totem",
+    "Quantity": 46
+  },
+  {
+    "ID": 24304,
+    "Name": "Charged Core",
+    "Quantity": 6
+  },
+  {
+    "ID": 24305,
+    "Name": "Charged Lodestone",
+    "Quantity": 1
+  },
+  {
+    "ID": 24309,
+    "Name": "Onyx Core",
+    "Quantity": 5
+  },
+  {
+    "ID": 24310,
+    "Name": "Onyx Lodestone",
+    "Quantity": 1
+  },
+  {
+    "ID": 24314,
+    "Name": "Molten Core",
+    "Quantity": 7
+  },
+  {
+    "ID": 24319,
+    "Name": "Glacial Core",
+    "Quantity": 2
+  },
+  {
+    "ID": 24329,
+    "Name": "Crystal Core",
+    "Quantity": 10
+  },
+  {
+    "ID": 24330,
+    "Name": "Crystal Lodestone",
+    "Quantity": 1
+  },
+  {
+    "ID": 24334,
+    "Name": "Pile of Vile Essence",
+    "Quantity": 5
+  },
+  {
+    "ID": 24335,
+    "Name": "Pile of Putrid Essence",
+    "Quantity": 1
+  },
+  {
+    "ID": 24339,
+    "Name": "Corrupted Core",
+    "Quantity": 3
+  },
+  {
+    "ID": 24340,
+    "Name": "Corrupted Lodestone",
+    "Quantity": 1
+  },
+  {
+    "ID": 24341,
+    "Name": "Large Bone",
+    "Quantity": 159
+  },
+  {
+    "ID": 24350,
+    "Name": "Large Claw",
+    "Quantity": 201
+  },
+  {
+    "ID": 24351,
+    "Name": "Vicious Claw",
+    "Quantity": 46
+  },
+  {
+    "ID": 24356,
+    "Name": "Large Fang",
+    "Quantity": 195
+  },
+  {
+    "ID": 24357,
+    "Name": "Vicious Fang",
+    "Quantity": 55
+  },
+  {
+    "ID": 24358,
+    "Name": "Ancient Bone",
+    "Quantity": 38
+  },
+   {
+    "ID": 19700,
+    "Name": "Mithril Ore",
+    "Quantity": 1714
+  },
+  {
+    "ID": 19729,
+    "Name": "Thick Leather Section",
+    "Quantity": 980
+  },
+  {
+    "ID": 19732,
+    "Name": "Hardened Leather Section",
+    "Quantity": 245
+  },
+  {
+    "ID": 19745,
+    "Name": "Gossamer Scrap",
+    "Quantity": 422
+  },
+  {
+    "ID": 19748,
+    "Name": "Silk Scrap",
+    "Quantity": 1181
+  },
+  {
+    "ID": 24276,
+    "Name": "Pile of Incandescent Dust",
+    "Quantity": 241
+  },
+  {
+    "ID": 24277,
+    "Name": "Pile of Crystalline Dust",
+    "Quantity": 48
+  },
+  {
+    "ID": 24282,
+    "Name": "Potent Venom Sac",
+    "Quantity": 251
+  },
+  {
+    "ID": 24283,
+    "Name": "Powerful Venom Sac",
+    "Quantity": 69
+  },
+  {
+    "ID": 24288,
+    "Name": "Large Scale",
+    "Quantity": 260
+  },
+  {
+    "ID": 24289,
+    "Name": "Armored Scale",
+    "Quantity": 65
+  },
+  {
+    "ID": 24294,
+    "Name": "Vial of Potent Blood",
+    "Quantity": 228
+  },
+  {
+    "ID": 24295,
+    "Name": "Vial of Powerful Blood",
+    "Quantity": 66
+  },
+  {
+    "ID": 24299,
+    "Name": "Intricate Totem",
+    "Quantity": 222
+  },
+  {
+    "ID": 24300,
+    "Name": "Elaborate Totem",
+    "Quantity": 69
+  },
+  {
+    "ID": 24304,
+    "Name": "Charged Core",
+    "Quantity": 8
+  },
+  {
+    "ID": 24305,
+    "Name": "Charged Lodestone",
+    "Quantity": 1
+  },
+  {
+    "ID": 24309,
+    "Name": "Onyx Core",
+    "Quantity": 6
+  },
+  {
+    "ID": 24310,
+    "Name": "Onyx Lodestone",
+    "Quantity": 1
+  },
+  {
+    "ID": 24314,
+    "Name": "Molten Core",
+    "Quantity": 9
+  },
+  {
+    "ID": 24319,
+    "Name": "Glacial Core",
+    "Quantity": 5
+  },
+  {
+    "ID": 24320,
+    "Name": "Glacial Lodestone",
+    "Quantity": 1
+  },
+  {
+    "ID": 24324,
+    "Name": "Destroyer Core",
+    "Quantity": 5
+  },
+  {
+    "ID": 24325,
+    "Name": "Destroyer Lodestone",
+    "Quantity": 1
+  },
+  {
+    "ID": 24329,
+    "Name": "Crystal Core",
+    "Quantity": 3
+  },
+  {
+    "ID": 24334,
+    "Name": "Pile of Vile Essence",
+    "Quantity": 6
+  },
+  {
+    "ID": 24335,
+    "Name": "Pile of Putrid Essence",
+    "Quantity": 1
+  },
+  {
+    "ID": 24339,
+    "Name": "Corrupted Core",
+    "Quantity": 2
+  },
+  {
+    "ID": 24340,
+    "Name": "Corrupted Lodestone",
+    "Quantity": 2
+  },
+  {
+    "ID": 24341,
+    "Name": "Large Bone",
+    "Quantity": 242
+  },
+  {
+    "ID": 24350,
+    "Name": "Large Claw",
+    "Quantity": 257
+  },
+  {
+    "ID": 24351,
+    "Name": "Vicious Claw",
+    "Quantity": 60
+  },
+  {
+    "ID": 24356,
+    "Name": "Large Fang",
+    "Quantity": 243
+  },
+  {
+    "ID": 24357,
+    "Name": "Vicious Fang",
+    "Quantity": 76
+  },
+  {
+    "ID": 24358,
+    "Name": "Ancient Bone",
+    "Quantity": 50
+  }
+  ]
+} 

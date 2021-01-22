@@ -1,0 +1,43 @@
+{
+  "Verb": "Salvage (Silverfed)",
+  "Cost": 60,
+  "Profit": 0,
+  "Input":
+    {
+      "ID": 80681,
+      "Name": "Bloodstone-Warped Hide",
+      "Quantity": 1760
+    },
+  "Outputs": [
+    {
+      "ID": 19719,
+      "Name": "Rawhide Leather Section",
+      "Quantity": 81
+    },
+    {
+      "ID": 19730,
+      "Name": "Coarse Leather Section",
+      "Quantity": 87
+    },
+    {
+      "ID": 19728,
+      "Name": "Thin Leather Section",
+      "Quantity": 96
+    },
+    {
+      "ID": 19731,
+      "Name": "Rugged Leather Section",
+      "Quantity": 59
+    },
+    {
+      "ID": 19729,
+      "Name": "Thick Leather Section",
+      "Quantity": 854
+    },
+    {
+      "ID": 19732,
+      "Name": "Hardened Leather Section",
+      "Quantity": 1004
+    }
+  ]
+} 

@@ -1,0 +1,19 @@
+{
+  "Verb": "Salvage (Copperfed)",
+  "Cost": 3,
+  "Profit": 0,
+  "Input":
+    {
+      "ID": 66670,
+      "Name": "Lump of Raw Ambrite",
+      "Quantity": 5000
+
+    },
+  "Outputs": [
+    {
+      "ID": 66637,
+      "Name": "Piece of Ambrite",
+      "Quantity": 9945
+    }
+  ]
+} 

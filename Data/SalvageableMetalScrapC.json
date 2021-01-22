@@ -1,0 +1,23 @@
+{
+  "Verb": "Salvage (Copperfed)",
+  "Cost": 3,
+  "Profit": 0,
+  "Input":
+    {
+      "ID": 21682,
+      "Name": "Salvageable Metal Scrap",
+      "Quantity": 897
+    },
+  "Outputs": [
+    {
+      "ID": 19702,
+      "Name": "Platinum Ore",
+      "Quantity": 436
+    },
+    {
+      "ID": 19700,
+      "Name": "Mithril Ore",
+      "Quantity": 1041
+    }
+  ]
+} 

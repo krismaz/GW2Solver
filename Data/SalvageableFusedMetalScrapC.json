@@ -1,0 +1,44 @@
+{
+  "Verb": "Salvage (Copperfed)",
+  "Cost": 3,
+  "Profit": 0,
+  "Input":
+    {
+      "ID": 41737,
+      "Name": "Salvageable Fused Metal Scrap ",
+      "Quantity": 456
+
+    },
+  "Outputs": [
+    {
+      "ID": 24314,
+      "Name": "Molten Core",
+      "Quantity": 25
+    },
+    {
+      "ID": 24315,
+      "Name": "Molten Lodestone",
+      "Quantity": 4
+    },
+    {
+      "ID": 24319,
+      "Name": "Glacial Core",
+      "Quantity": 26
+    },
+    {
+      "ID": 24320,
+      "Name": "Glacial Lodestone",
+      "Quantity": 9
+    },
+    {
+      "ID": 19700,
+      "Name": "Mithril Ore",
+      "Quantity": 1899
+    },
+    {
+      "ID": 19701,
+      "Name": "Orichalcum Ore",
+      "Quantity": 120
+    }
+  ]
+} 

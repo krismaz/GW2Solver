@@ -1,0 +1,23 @@
+{
+  "Verb": "Salvage (Silverfed)",
+  "Cost": 60,
+  "Profit": 0,
+  "Input":
+    {
+      "ID": 21689,
+      "Name": "Hard Leather Strap",
+      "Quantity": 6557
+    },
+  "Outputs": [
+    {
+      "ID": 19729,
+      "Name": "Thick Leather Section",
+      "Quantity": 8269
+    },
+    {
+      "ID": 19732,
+      "Name": "Hardened Leather Section",
+      "Quantity": 628
+    }    
+  ]
+} 

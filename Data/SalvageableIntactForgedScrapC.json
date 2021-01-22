@@ -1,0 +1,29 @@
+{
+  "Verb": "Salvage (Copperfed)",
+  "Cost": 3,
+  "Profit": 0,
+  "Input":
+    {
+      "ID": 82488,
+      "Name": "Salvageable Intact Forged Scrap",
+      "Quantity": 3410
+
+    },
+  "Outputs": [
+    {
+      "ID": 19700,
+      "Name": "Mithril Ore",
+      "Quantity": 14395
+    },
+    {
+      "ID": 19701,
+      "Name": "Orichalcum Ore",
+      "Quantity": 1035
+    },
+    {
+      "ID": 82582,
+      "Name": "Sliver of Twitching Forgemetal",
+      "Quantity": 875
+    }
+  ]
+} 

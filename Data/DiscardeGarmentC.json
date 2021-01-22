@@ -1,0 +1,24 @@
+{
+  "Verb": "Salvage (Copperfed)",
+  "Cost": 3,
+  "Profit": 0,
+  "Input":
+    {
+      "ID": 21675,
+      "Name": "Discarded Garment",
+      "Quantity": 5030
+
+    },
+  "Outputs": [
+    {
+      "ID": 19748,
+      "Name": "Silk Scrap",
+      "Quantity": 8027
+    },
+    {
+      "ID": 19745,
+      "Name": "Gossamer Scrap",
+      "Quantity": 465
+    }
+  ]
+} 
